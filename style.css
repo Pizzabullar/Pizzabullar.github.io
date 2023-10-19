@@ -1,0 +1,51 @@
+header{
+    font-family: 'Croissant One', cursive;
+    background-color: antiquewhite;
+height: 80px;
+width: 90%;
+border-radius: 15px;
+margin-bottom: 30px;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+
+
+
+nav{
+ background-color: pink;
+height: 50px;
+width: 90%;
+margin-left: 5%;
+margin-right: 5%;
+margin-bottom: 30px;
+
+}
+
+
+#container{
+    display:flex
+}
+
+aside{
+    background-color: lightpink;
+height: 400px;
+width: 20%;
+margin-left: 5%;
+margin-bottom: 30px;
+}
+main{
+    background-color: lightblue;
+height: 400px;
+width: 70%;
+margin-right: 5%;
+margin-bottom: 30px;
+}
+
+footer{
+    background-color: blueviolet;
+    height: 50px;
+    width: 90%;
+    margin-left: 5%;
+margin-right: 5%;
+}
